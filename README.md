@@ -1,3 +1,3 @@
 Elf Attack
 
-Now with more ReadMe.
+Now with slightly less ReadMe.
